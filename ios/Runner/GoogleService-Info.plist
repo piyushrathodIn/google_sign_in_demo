@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>619082808906-pgqf83o8lakd43a2cbsokui7hj9uvdb3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.619082808906-pgqf83o8lakd43a2cbsokui7hj9uvdb3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9rD6xK9D9YpyJB6rem0ujNNgKjkJAv4Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>619082808906</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.guineaPig</string>
+	<key>PROJECT_ID</key>
+	<string>jhs-151</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jhs-151.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:619082808906:ios:ec6556f7face94e4cf70b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://jhs-151.firebaseio.com</string>
+</dict>
+</plist>
